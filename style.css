@@ -11,7 +11,7 @@ header {
 body {
     display: grid;
     grid-template-areas: 
-        "img header header header"
+        "img img img img"
         "navigation main main main"
         "footer footer footer footer";
     grid-gap: 10px;
